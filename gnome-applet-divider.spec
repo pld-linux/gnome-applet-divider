@@ -11,7 +11,6 @@ Source0:	http://dl.sourceforge.net/gqapplets/%{_realname}-%{version}.tar.gz
 URL:		http://gqapplets.sourceforge.net/
 BuildRequires:	autoconf
 BuildRequires:	automake
-BuildRequires:	esound-devel >= 0.2.13
 BuildRequires:	gnome-panel-devel >= 2.0.0
 BuildRequires:	libtool
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
