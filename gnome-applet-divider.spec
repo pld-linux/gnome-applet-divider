@@ -1,7 +1,7 @@
 %define		_realname	divider-applet
 
 Summary:	Divider like those between icons on toolbars.
-Name:		gnome-applet-%{_realname}
+Name:		gnome-applet-divider
 Version:	1.99.1
 Release:	1
 License:	GPL
