@@ -5,7 +5,7 @@ Name:		gnome-applet-divider
 Version:	1.99.1
 Release:	1
 License:	GPL
-Group:		X11/Applications/Sound
+Group:		X11/Applications
 Source0:	http://dl.sourceforge.net/gqapplets/%{_realname}-%{version}.tar.gz
 # Source0-md5:	a3d8385f6639b3817a4d96a8220180b7
 URL:		http://gqapplets.sourceforge.net/
