@@ -1,6 +1,7 @@
 %define		_realname	divider-applet
 
-Summary:	Divider like those between icons on toolbars.
+Summary:	Divider like those between icons on toolbars
+Summary(pl):	Podzielnik, jak te pomiêdzy ikonami na paskach narzêdziowych
 Name:		gnome-applet-divider
 Version:	1.99.1
 Release:	1
@@ -21,6 +22,11 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This applet is a simple divider like those between icons on toolbars.
 The style, color, and strength of effect (transparency) can be
 adjusted on the properties dialog.
+
+%description -l pl
+Ten aplet jest prostym podzielnikiem jak te pomiêdzy ikonami na
+paskach narzêdziowych. Styl, kolor i natê¿enie efektu
+(przezroczysto¶æ) mo¿na dostosowywaæ w okienku dialogowym w³a¶ciwo¶ci.
 
 %prep
 %setup -q -n %{_realname}-%{version}
