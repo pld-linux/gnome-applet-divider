@@ -1,7 +1,7 @@
 %define		_realname	divider-applet
 
 Summary:	Divider like those between icons on toolbars
-Summary(pl.UTF-8):   Podzielnik, jak te pomiędzy ikonami na paskach narzędziowych
+Summary(pl.UTF-8):	Podzielnik, jak te pomiędzy ikonami na paskach narzędziowych
 Name:		gnome-applet-divider
 Version:	1.99.1
 Release:	1
